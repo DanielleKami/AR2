@@ -1,0 +1,24 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.16f1 (a56f230f6470) revision 10841891'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) Professional' Language: 'de' Physical Memory: 16137 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-kamit" at "2026-07-15T15:06:26.6190358Z"
+Process architecture: x64
+Date: 2026-07-15T15:06:26Z
+Error creating external process 'C:/Program Files/Unity/Hub/Editor/6000.3.16f1/Editor/Data/Resources/PackageManager/Server/UnityPackageManager.exe' : Das System kann den angegebenen Pfad nicht finden.
+Error cleaning up external process: Das Handle ist ungültig.
+[Package Manager] Cannot start server process [path: `C:/Program Files/Unity/Hub/Editor/6000.3.16f1/Editor/Data/Resources/PackageManager/Server/UnityPackageManager.exe`]
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.16f1\Editor\Unity.exe
+-batchmode
+-nographics
+-quit
+-projectPath
+c:\Users\kamit\OneDrive\CMS\AR\AR_Projekt
+-logFile
+c:\Users\kamit\OneDrive\CMS\AR\AR_Projekt\compile_log.txt
+Successfully changed project path to: c:\Users\kamit\OneDrive\CMS\AR\AR_Projekt
+C:/Users/kamit/OneDrive/CMS/AR/AR_Projekt
+Exiting without the bug reporter. Application will terminate with return code 1
